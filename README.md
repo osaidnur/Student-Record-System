@@ -5,7 +5,7 @@ A  C-based student record management system that utilizes Binary Search Trees (B
 ## 📋 Table of Contents
 - [🎯 Overview](#-overview)
 - [✨ Features](#-features)
-- [🏗️ Data Structures](#-data-structures)
+- [📐 Data Structures](#-data-structures)
 - [📁 File Structure](#-file-structure)
 - [🚀 Installation & Setup](#-installation--setup)
 - [💻 Usage](#-usage)
@@ -38,7 +38,7 @@ The program reads student data from a file (`students.txt`) and provides various
 - **Memory Management**: Proper allocation and deallocation of memory
 - **Error Handling**: Comprehensive error checking and user feedback
 
-## 🏗️ Data Structures
+## 📐 Data Structures
 
 ### Binary Search Tree (BST)
 - **Primary Storage**: Main data structure for storing student records
